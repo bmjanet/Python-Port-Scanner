@@ -52,7 +52,8 @@ The main components of this program are:
 1. Open a terminal and identify your IP address using `ifconfig` (in Linux, at least). It should be something like 127.0.0.1
 2. Next, use `python3 -m http.server <PORT#>` to open a port on your IP
 3. Run the GUI and enter your IP and the port you specified as shown. You should have a successful scan with the port you opened‼️
+
    ![image](https://github.com/user-attachments/assets/52255f6e-6138-486f-94e0-812f4c35c4bd)
 
 
-Contributions are welcome 🙂. Please fork the repository and submit a pull request. Thank you for reading!
+Thank you for reading!
